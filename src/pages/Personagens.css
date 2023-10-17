@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding-top: 10px;
+    border: 1px solid #c4c4c4;
+    width: 300px;
+    padding: 10px;
+    margin: 10px;    
+}
+.foto{
+    height: 100px;
+    width: 100px;
+    border-radius: 4cm;
+}
+.nome{
+    align-self: center;
+}
+.status{
+    display: flex;
+    justify-content: center;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+.pesquisa{
+    gap:5px;
+    display: flex;
+}
